@@ -68,12 +68,12 @@ bootcamp-modulo8-react/
 ```
 ## ✅ Progreso
 
-- [x] Introducción a React y estructura del proyecto
-- [x] Componentes, props, estado
-- [x] Hooks (`useState`, `useEffect`, `useContext`)
-- [x] Formularios y validaciones
-- [x] Consumo de APIs externas
-- [x] Navegación con React Router
+- [ ] Introducción a React y estructura del proyecto
+- [ ] Componentes, props, estado
+- [ ] Hooks (`useState`, `useEffect`, `useContext`)
+- [ ] Formularios y validaciones
+- [ ] Consumo de APIs externas
+- [ ] Navegación con React Router
 - [ ] Proyecto final completo (con deploy)
 
 ---
